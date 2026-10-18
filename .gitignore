@@ -44,3 +44,4 @@ frequency_output.txt
 *.txt
 !sample.txt
 !README.md
+pycache/
